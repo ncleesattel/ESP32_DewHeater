@@ -1,0 +1,9 @@
+Comment,Designator,Footprint,LCSC
+Conn_01x03,J7,PinHeader_1x03_P2.54mm_Vertical,
+Conn_01x02,J1,JST_VH_B2P-VH-B_1x02_P3.96mm_Vertical,
+Conn_01x02,J2,JST_VH_B2P-VH-B_1x02_P3.96mm_Vertical,
+SW_SPST,SW1,Marquart,
+Conn_01x03,J4,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,
+Conn_01x03,J6,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,
+Conn_01x03,J5,PinHeader_1x03_P2.54mm_Vertical,
+Barrel_Jack_MountingPin,J8,BarrelJack_Vertical,

@@ -1,0 +1,9 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_01x02,JST_VH_B2P-VH-B_1x02_P3.96mm_Vertical,156.95,-57.7975,-90.0,top
+J2,Conn_01x02,JST_VH_B2P-VH-B_1x02_P3.96mm_Vertical,144.45,-57.7975,-90.0,top
+J4,Conn_01x03,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,100.5,-55.525,0.0,top
+J5,Conn_01x03,PinHeader_1x03_P2.54mm_Vertical,116.5,-60.025,270.0,bottom
+J6,Conn_01x03,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,87.0,-55.525,0.0,top
+J7,Conn_01x03,PinHeader_1x03_P2.54mm_Vertical,111.5,-60.0,270.0,bottom
+J8,Barrel_Jack_MountingPin,BarrelJack_Vertical,130.5,-60.0,0.0,bottom
+SW1,SW_SPST,Marquart,175.0,-60.0,0.0,top
