@@ -1,0 +1,5 @@
+Default	True	4.0	3
+BigPWR	True	20.0	3
+PWR	True	12.0	3
+SmallPWR	True	8.0	3
+False	True	False
