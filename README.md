@@ -61,10 +61,34 @@ What do you need for this build.
 | Cliff DC jacks | 8 | 24 |
 | various other | x | 20 |
 
-Best case 170 Eur if you can share all pcbs
+Best case 170 Eur if you can share all pcbs  
 Worst case 320 Eur if you keep all pcbs and build only one
 
 ![running](/hardware/img/dew_complete.jpg)
+
+![control_pcb](/hardware/img/dew_control_pcb.jpg)
+
+![connector_pcb](/hardware/img/dew_connector_pcb_01.jpg)
+
+![connector_pcb](/hardware/img/dew_connector_pcb_02.jpg)
+
+![connector_pcb](/hardware/img/dew_connector_pcb_03.jpg)
+
+![connector_assy](/hardware/img/dew_connector_assy_01.jpg)
+
+![connector_assy](/hardware/img/dew_connector_assy_02.jpg)
+
+![connector_assy](/hardware/img/dew_connector_assy_03.jpg)
+
+![dew_assy](/hardware/img/dew_assy_01.JPG)
+
+![dew_assy](/hardware/img/dew_assy_03.JPG)
+
+![dew_assy](/hardware/img/dew_assy_04.JPG)
+
+![dew_assy](/hardware/img/dew_assy_05.JPG)
+
+![dew_assy](/hardware/img/dew_assy_06.JPG)
 
 
 
