@@ -64,6 +64,7 @@ What do you need for this build.
 Best case 170 Eur if you can share all pcbs
 Worst case 320 Eur if you keep all pcbs and build only one
 
+![running](/hardware/img/dew_complete.jpg)
 
 
 
